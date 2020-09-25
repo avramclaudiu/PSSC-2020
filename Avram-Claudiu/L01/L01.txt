@@ -1,0 +1,6 @@
+Functionalitatile aplicatie Stack Overflow:
+
+1. Posibilitatea de ati crea un cont personal.
+2. Rezolvarea problemelor tehnice (poti posta o problema intalnita de tine intr-un topic nou sau sa raspunzi la problema altor oameni)
+3. Poti vota raspunsurile care te-au ajutat astfel incat acestea sa apara cat mai sus in pagina pentru a ajuta si pe altii
+4. Iti poti gasi un job cu ajutorul aplicatiei
