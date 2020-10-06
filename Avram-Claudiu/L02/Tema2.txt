@@ -1,0 +1,14 @@
+StackOverflow business events:
+-logare/inregistrare
+-postarea intrebare
+-postare raspuns
+-stergere intrebare
+-stergere raspuns
+-votarea unui raspuns
+-editarea unui raspuns
+-primire puncte pentru reputatie
+-cautarea unui job
+-aplicarea la un job
+-raspuns de la angajator
+
+Context
