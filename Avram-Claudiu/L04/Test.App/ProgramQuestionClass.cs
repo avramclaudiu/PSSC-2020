@@ -8,7 +8,7 @@ namespace Test.App
     {
         static void Main(string[] args)
         {
-            var cmd = new CreateQuestionCmd("Titlu1", "Descriere1", "c#");
+            var cmd = new CreateQuestionCmd("Title", "Description", "c#");
             var result = CreateQuestion(cmd);
             result.Match(
                 ProcessQuestionCraeted,
